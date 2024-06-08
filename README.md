@@ -11,6 +11,8 @@ Uncontrolled case| Controlling via multi-agents
 <!-- 
 [![Link to the video](http://img.youtube.com/vi/VFGWmxndcrU/0.jpg)](https://youtu.be/VFGWmxndcrU) | [![Link to the video](http://img.youtube.com/vi/329-SjXvOCs/3.jpg)](https://youtu.be/329-SjXvOCs) -->
 
+(click on the thumbnails to see the video :-))
+
 # Training Paradigm
 ![Training paradigm of exploiting symmetry](assets/training_paradigm.svg)
 
