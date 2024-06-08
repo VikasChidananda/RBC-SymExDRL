@@ -5,7 +5,7 @@
 # Controlling 2D RBC
 Uncontrolled case| Controlling via multi-agents
 --|--
-<video controls width="430" src="assets/Uncontrolled_Ra_1e4.mp4" title="Controlling RBC via multi-agents"></video> |<video controls width="430" src="assets/Controlling_Ra_1e4.mp4" title="Controlling RBC via multi-agents"></video>
+[Link to the video](https://youtu.be/VFGWmxndcrU?feature=shared)<video controls width="430" src="assets/Uncontrolled_Ra_1e4.mp4" title="Controlling RBC via multi-agents"></video> |[Link to the video](https://youtu.be/329-SjXvOCs?feature=shared)<video controls width="430" src="assets/Controlling_Ra_1e4.mp4" title="Controlling RBC via multi-agents"></video>
 
 # Training Paradigm
 ![Training paradigm of exploiting symmetry](assets/training_paradigm.svg)
