@@ -1,4 +1,4 @@
-# Distributed control of Rayleigh-B&eacute;nard convection through symmetry exploiting deep reinforcement learning
+# Distributed control of Rayleigh-B&eacute;nard convection using symmetry exploiting deep reinforcement learning
 
 (Codebase will be public soon...)
 
